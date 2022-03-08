@@ -1,0 +1,27 @@
+#root {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.preheader {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	padding-top: 50px;
+}
+
+.preheader .btn {
+	display: flex;
+	align-items: center;
+	padding: 15px 20px;
+	background-color: white;
+	box-shadow: 0 0 5px 1px rgb(0 0 0 / 25%);
+	gap: 10px;
+	font-size: 20px;
+}
+
+.preheader .btn:hover {
+	cursor: pointer;
+}
