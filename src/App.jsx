@@ -2,7 +2,7 @@ import Cv from "CV";
 import { useState } from "react";
 
 const printLabels = {
-	"EN": "Print / genereate PDF",
+	"EN": "Print / generate PDF",
 	"HU": "Nyomtatás / PDF generálás"
 }
 
